@@ -1,3 +1,5 @@
+#revisiting this project and plan to create more Python projects
+
 import random
 
 uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
